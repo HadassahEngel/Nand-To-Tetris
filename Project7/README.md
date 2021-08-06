@@ -2,8 +2,10 @@
 
 ### VM: Stack Arithmetic
 
-building a stack based VM
+Building a stack based VM
 
+
+In the Project:
 
 Makefile        - Builds the project.
 
